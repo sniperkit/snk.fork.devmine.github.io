@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 $(function () {
     /**
      * Mark menu elements from the navbar as active when clicked.
